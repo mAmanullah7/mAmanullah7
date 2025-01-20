@@ -1,7 +1,5 @@
 
-#  <div align="center"> 💫 About Me:<br><br>
-<div align="center">
-Hi, I'm Mohammad Amanullah 👋 </div>
+#  <div align="center"> 💫 Hey, I'm Mohammad Amanullah 👋:<br><br>
 <br><br>🎓 Pursuing dual degrees in Programming and Data Science & Chemical Engineering<br>I'm interested in:<br>- 🤖 Artificial Intelligence & Machine Learning<br>- 💻 Full Stack Development<br>- 🚀 Competitive Programming<br>- 🌟 Hackathons<br>- 🔍 Problem Solving<br><br>Currently:<br>- 💡 Building cool projects<br>- 📊 Learning new technologies<br>- ⚡ Solving DSA problems<br><br>
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ullahaman072003@gmail.com)
