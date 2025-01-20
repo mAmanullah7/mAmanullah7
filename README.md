@@ -1,4 +1,4 @@
-# 💫 About Me:
+                                                                            # 💫 About Me:
  Hi, I'm Mohammad Amanullah 👋<br><br>🎓 Pursuing dual degrees in Programming and Data Science & Chemical Engineering <br> I'm interested in:<br>- 🤖 Artificial Intelligence & Machine Learning<br>- 💻 Full Stack Development <br>- 🚀 Competitive Programming<br>- 🌟 Hackathons<br>- 🔍 Problem Solving<br><br> Currently:<br>- 💡 Building cool projects<br>- 📊 Learning new technologies<br>- ⚡ Solving DSA problems<br><br>Feel free to reach out: ullahaman072003@gmail.com
 
 
